@@ -14,5 +14,6 @@ Validation: Ensure that waste containers are correctly identified and disposed o
 
 Uml Diagram:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b5fee0e6-e1cb-4994-bd9e-65767493d2f2)
+
 
